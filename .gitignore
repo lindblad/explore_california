@@ -1,0 +1,12 @@
+# *.txt
+tempfile.txt
+*.log
+
+/assets/videos/
+
+logs/*.log
+
+*.php
+!index.php
+
+# Here goes a comment
